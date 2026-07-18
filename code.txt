@@ -1,1 +1,4 @@
-demo for git
+First GitHub repo created
+add 'filename'
+commit 'comment'
+push
